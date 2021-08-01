@@ -6,7 +6,7 @@
 
 - :mortar_board: Sophomore at Rajalakshmi Engineering College.
 - 🔭 I’m currently working on being the best version of myself every single day.
-- 🌱 I’m currently learning Python and Front-end Web Development
+- 🌱 I’m currently learning Python and Machine Learning.
 - 👯 I’m looking to collaborate on projects.
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I am a Content Creator and I make people smile.
