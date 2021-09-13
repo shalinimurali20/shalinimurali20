@@ -31,7 +31,7 @@
 </p>
 
 ## ✨ Initiatives
-- [TheSundayOrg](https://thesundayorg.social/) - yet to be launched community. <br>
+- [TheSundayOrg](https://thesundayorg.social/) - An organization to help you ace 21st century life skills. <br>
 - An Instagram Page to motivate people and unlock their potential. <br>
 Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [shasays](https://www.instagram.com/shasays/)
 
