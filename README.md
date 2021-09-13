@@ -1,25 +1,28 @@
-### Hola Amigo👋
+### Hola Amigo 👋🏼
 
 
-### I'm Shalini 👋
+### I'm Shalini 
 
 
-- :mortar_board: Sophomore at Rajalakshmi Engineering College.
+- :mortar_board: Junior at Rajalakshmi Engineering College.
+- ☀ Co - Founder of [TheSundayOrg](https://www.thesundayorg.social/)
 - 🔭 I’m currently working on being the best version of myself every single day.
-- 🌱 I’m currently learning Python and Machine Learning.
+- 🌱 I’m currently learning Python and Web Development.
 - 👯 I’m looking to collaborate on projects.
 - 😄 Pronouns: She, Her
-- ⚡ Fun fact: I am a Content Creator and I make people smile.
+- ⚡ Fun fact: I am a Content Creator and I make people think and smile.
 - 🏆 2021 Goals:
   - Learn more. Give more.
   - Make projects
   - Contribute to open-source
-  - Launch the community - [TheSundayOrg](https://thesundayorg.social/) ☀️
+  - Work on my startup
 ### :computer: Tech stack
 * C, C++
 * Python
-* Machine Learning
-* And yet more to come :bowtie:
+* HTML
+* CSS
+* JS
+* And more to come :bowtie:
 
 ## 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -46,6 +49,8 @@ Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.s
 [Computer Vision — Why does it matter?](https://shalinimurali.medium.com/computer-vision-why-does-it-matter-92025f122c7b)
 
 [4 Reasons To Learn Python](https://shalinimurali.medium.com/4-reasons-to-choose-python-be6b1c6a5f40)
+
+[Python Variables](https://shalu01m.hashnode.dev/python-variables)
 
 <hr/>
 
