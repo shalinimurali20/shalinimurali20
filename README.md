@@ -38,7 +38,7 @@ Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.s
 ### Reach me out:
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shalinimurali20/) 
 [<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/shalu01m)
-[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber)
+[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='30'>](https://www.youtube.com/c/SUNDAYORG?view_as=subscriber)
 [<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg' alt='Hashnode' height='30'>](https://shalu01m.hashnode.dev/)
 
 ### Blogs posts
