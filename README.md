@@ -1,7 +1,4 @@
-### Hola Amigo 👋🏼
-
-
-### I'm Shalini 
+### Hola Amigo 👋🏼 I'm Shalini Murali
 
 
 - :mortar_board: Junior at Rajalakshmi Engineering College.
@@ -39,10 +36,10 @@ Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.s
 Follow - [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='15'>](https://www.instagram.com/elixircoding/) [elixircoding](https://www.instagram.com/elixircoding/)
 
 ### Reach me out:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shalinimurali20/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shasays/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shalu01m)
-<a href="https://medium.com/@shalinimurali" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shalinimurali" height="40"/></a>
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shalinimurali20/) 
+[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/shalu01m)
+[<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCVoekzAEHVlaHUFJQ_cuM3w?view_as=subscriber)
+[<img src='https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg' alt='Hashnode' height='30'>](https://shalu01m.hashnode.dev/)
 
 ### Blogs posts
 
