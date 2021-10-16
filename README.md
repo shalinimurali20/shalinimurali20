@@ -10,15 +10,14 @@
 - ⚡ Fun fact: I am a Content Creator and I make people think and smile.
 - 🏆 2021 Goals:
   - Learn more. Give more.
-  - Make projects
-  - Contribute to open-source
-  - Work on my startup
+  - Figure out my purpose and work towards it
+  - Impact people through [TheSundayOrg](https://www.thesundayorg.social/)
+  - Choose my area of interest
 ### :computer: Tech stack
 * C, C++
 * Python
-* HTML
-* CSS
-* JS
+* SQL
+* Machine Learning
 * And more to come :bowtie:
 
 ## 🔥 Streak stats
