@@ -6,10 +6,9 @@
 
 
 - :mortar_board: Junior at Rajalakshmi Engineering College.
-- 🔥  Founder of [Prodactive](https://www.prodactive.live)
 - ☀ Co - Founder of [SUNDAY](https://www.thesundayorg.social/)
 - 🔭 I’m currently working on being the best version of myself every single day.
-- 🌱 I’m currently learning Python and Web Development.
+- 🌱 I’m currently interested in Python and Data Science.
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I am a Content Creator and I make people think and smile.
 
@@ -40,10 +39,6 @@ Revolutionize the way you see - technology, finance, mental health, career, and 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.live&logoColor=white)](https://thesundayorg.social/)
 [![Discord](https://img.shields.io/badge/SUNDAY-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Skm7QhyQN9)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thesundayorg/)
-
-#### *Prodactive* <br>
-Discover people skills that sets you apart and become the best version of yourself through [Prodactive](https://www.prodactive.live)<br>
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.livw&logoColor=white)](https://www.prodactive.live)
 
 #### *shasays* <br>
 Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [shasays](https://www.instagram.com/shasays/) and take your stand on creating a sustainable future
