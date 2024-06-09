@@ -4,8 +4,8 @@
 ### Hola Amigo 👋🏼 I'm Shalini Murali
 
 
-- :mortar_board: Graduate at Rajalakshmi Engineering College.
 - ✨ MSc Business Analytics at Warwick Business School
+- :mortar_board: Graduate at Rajalakshmi Engineering College.
 - ☀  Busy studying Excel, SQL, Python and BI Tools.
 - 🔭 I’m working on being the best version of myself daily.
 - 🌱 I’m currently interested in exploring data and business problems.
@@ -15,18 +15,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shalinimurali.me/)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesundayorg)
 <br>
-### 🏆 2023 Goals:
+### 🏆 2024 Goals:
   - Learn more. Give more.
+  - Dive into analytics, AI, statistics, machine learning, and neural networks to enhance both personal understanding and professional capabilities.
   - Impact people through my Instagram venture [shasays](https://www.instagram.com/shasays) ☀️
-  - Write more e-books helping newbies and professionals.
+  - Write more content helping newbies and learners.
   - Create problem-solving projects.
   - Contribute to Open-Source.
   - Be physically and mentally fit.
-  - Code Everyday! 👨🏻‍💻
-  - Write 2 blogs a month.
   
 ## I'm known for talking about you, us and the Earth ✨
-### 500+ awesome people chose to follow me 😄
+### 1000+ awesome people chose to follow me 😄
 [<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/shalu01m)
 [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='30'>](https://instagram.com/shasays)
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shalinimurali20/) 
@@ -35,7 +34,7 @@
 ### ✨ Initiatives
 
 #### *shasays* <br>
-Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [shasays](https://www.instagram.com/shasays/) and take your stand on creating a sustainable future
+Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [shasays](https://www.instagram.com/shasays/) 
 
 ## E-Books
 - [Data Science in a Nutshell 📊](https://store.thesundayorg.social/l/DataScienceinaNutshell)
