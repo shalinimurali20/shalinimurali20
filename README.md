@@ -12,7 +12,7 @@
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I am a Content Creator who makes people think and smile.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shalinimurali.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://shalinimurali.softr.app/)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thesundayorg)
 <br>
 ### 🏆 2024 Goals:
