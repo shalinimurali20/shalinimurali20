@@ -18,7 +18,7 @@
 ### 🏆 2024 Goals:
   - Learn more. Give more.
   - Dive into analytics, AI, statistics, machine learning, and neural networks to enhance both personal understanding and professional capabilities.
-  - Impact people through my Instagram venture [shasays](https://www.instagram.com/shasays) ☀️
+  - Impact people through my social media venture [shasays](https://www.linkedin.com/in/shalinimurali20/) ☀️
   - Write more content helping newbies and learners.
   - Create problem-solving projects.
   - Contribute to Open-Source.
@@ -33,9 +33,6 @@
 
 ### ✨ Initiatives
 
-#### *shasays* <br>
-Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='Instagram' height='15'>](https://www.instagram.com/ablessednote/) [shasays](https://www.instagram.com/shasays/) 
-
 ## E-Books
 - [Data Science in a Nutshell 📊](https://store.thesundayorg.social/l/DataScienceinaNutshell)
 - [100+ Data Science Tools 🚀](https://store.thesundayorg.social/l/DataScienceTools)
@@ -43,7 +40,7 @@ Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg
 ### 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Allen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shalinimurali20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shalini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shalinimurali20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 
 ### 📊 Github Stats
@@ -61,7 +58,7 @@ Follow [<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg
 <details>
   <summary>:octocat:  Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shalinimurali20&custom_title=shalinimurali20's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalini's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shalinimurali20" /></a> 
   <br/>
 </details>
 <details>
